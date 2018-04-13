@@ -1,2 +1,2 @@
 const gameType = "awesome";
-alert('Lets make ${ gameType } games!');
+alert("Let's make ${ gameType } games!");
